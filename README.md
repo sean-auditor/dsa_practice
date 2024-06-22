@@ -1,5 +1,7 @@
 # DSA Study
 
+# Testing
+
 Also for studying TypeScript and TDD
 
 This is also a study to be more proficent in git
